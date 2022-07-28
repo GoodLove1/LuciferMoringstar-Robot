@@ -42,5 +42,5 @@ async def gen_link_s(bot, message):
         return await message.reply("__**Reply to a Supported Media**__")
 
     file_id, ref = unpack_new_file_id((getattr(replied, file_type)).file_id)
-    url = f"https://t.me/{temp.Bot_Username}?start=muhammedrk-mo-tech-group-{file_id}"
+    url = f"https://t.me/{temp.Bot_Username}?start=king_of_fondness-{file_id}"
     await message.reply(f"**Here is your Link:**\n`{url}")
