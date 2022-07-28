@@ -10,19 +10,19 @@
       "pyrogram",
       "bot"
     ],
-    "website": "https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot",
-    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot",
+    "website": "https://github.com/GoodLove1/LuciferMoringstar-Robot",
+    "repository": "https://github.com/GoodLove1/LuciferMoringstar-Robot",
     "env": {
         "API_HASH": {
-            "description": "Get this value from :- https://youtu.be/5eEsvLAKVc0",
+            "description": "Get this value from :- https://youtu.COM",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from :- https://youtu.be/5eEsvLAKVc0",
+            "description": "Get this value from :- https://youtu.COM",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Get this value from :- https://youtu.be/cB4UduCcNWs",
+            "description": "Get this value from :- https://youtu.COM",
             "required": true
         },
         "PICS": {
@@ -30,11 +30,11 @@
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "(database : store name) Get this value from :- https://www.mongodb.com, For more help watch this video :- https://youtu.be/mD9veNL7KoE",
+            "description": "(database : store name) Get this value from :- https://www.mongodb.com, For more help watch this video :- https://youtu.COM",
             "required": true
         },
         "DATABASE_URI": {
-            "description": "(database : store) Get this value from :- https://www.mongodb.com, For more help watch this video :- https://youtu.be/mD9veNL7KoE",
+            "description": "(database : store) Get this value from :- https://www.mongodb.com, For more help watch this video :- https://youtu.COM",
             "required": true
         },
         "ADMINS": {
